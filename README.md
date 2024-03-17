@@ -75,3 +75,8 @@ I'm a Junior AI Engineer and a certified expert in Cloud Technologies. My passio
   <a href="linkToCertification"><img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
   <a href="linkToCertification"><img src="https://img.shields.io/badge/Google_TensorFlow_Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 </p>
+
+### LeetCode Profile:
+
+Check out my [LeetCode repository](https://github.com/Suriya-002/LeetCode) where I solve problems and share my solutions. I'm on a journey to sharpen my problem-solving skills!
+
