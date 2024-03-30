@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+AI+Engineer;Certified+Cloud+Expert;ML+%26+AI+Enthusiast;Exploring+New+Tech+Frontiers&center=true&width=500&height=50">
 </p>
 
-As a Junior AI Engineer with a passion for solving complex problems, I've dedicated myself to mastering the intricacies of Machine Learning, Deep Learning, and Cloud Technologies. My journey has led me to gain valuable experience in Time Series Analysis, NLP, and Computer Vision, constantly pushing the boundaries of what's possible with AI. 
+As a Junior AI Engineer with a passion for solving complex problems, I've dedicated myself to mastering the intricacies of Machine Learning, Deep Learning, and Cloud Technologies. My journey has led me to gain valuable experience in Time Series Analysis, NLP, and Computer Vision, constantly pushing the boundaries of what's possible with AI.
 
 I'm not just about algorithms and code; I believe in the transformative power of technology to make a real impact on real-world issues. This drive has propelled me into the realms of CyberSecurity, DevOps, and MLOps, where I'm committed to building robust, secure, and scalable solutions.
 
