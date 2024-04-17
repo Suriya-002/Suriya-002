@@ -2,7 +2,7 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Suriya-002&label=Profile%20views&color=0e75b6&style=flat" alt= "Suriya-002" />
- <img src="https://img.shields.io/github/followers/Suriya-002?label=Followers" alt="Suriya-002" />
+ <img src="https://img.shields.io/github/followers/Suriya-002?label=Followers" alt="Suriya-002"/>
 </p>
 
 <p align="center">
