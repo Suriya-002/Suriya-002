@@ -23,7 +23,6 @@ Outside of my professional endeavors, I'm an avid learner, always on the lookout
  <a href="mailto:suriyarajavel02@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
  <a href="https://www.linkedin.com/in/suriya-narayanan-r-9b34b8212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
  <a href="https://github.com/Suriya-002"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
- <a href="https://leetcode.com/suriya_bw/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 ### 👨‍💻 Programming Languages:
