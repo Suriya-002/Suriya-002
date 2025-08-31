@@ -41,8 +41,6 @@ Outside of my professional endeavors, I'm an avid learner, always on the lookout
 - **Deep Learning:** `CNN`, `RNN`, `LSTM`, `GANs`, `Transfer Learning`
 - **Time Series Analysis:** `ARIMA`, `SARIMA`, `Prophet`,
 
-# Let's create the README.md file with the provided template content
-readme_content = """# 🚀 AI Travel Demand Forecasting Assistant
 
 ## 📌 Overview
 An AI system that predicts future travel demand using **ensemble ML methods (XGBoost + Random Forest)** combined with **LLM-based insights (GPT-4)** for conversational recommendations.  
